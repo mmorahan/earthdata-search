@@ -1,0 +1,17 @@
+{
+  "moreInfoUrl": "https://ceos.org/ourwork/workinggroups/wgiss/access/international-directory-network/",
+  "pageTitle": "IDN",
+  "parentConfig": "edsc",
+  "portalBrowser": true,
+  "query": {
+    "hasGranulesOrCwic": null
+  },
+  "title": {
+    "primary": "IDN",
+    "secondary": "CEOS International Directory Network"
+  },
+  "ui": {
+    "showNonEosdisCheckbox": false,
+    "showOnlyGranulesCheckbox": false
+  }
+}
